@@ -6,4 +6,5 @@ Sin embargo, en la segunda carpeta (con_CQRS) uso arquitectura hexagonal y CQRS 
 
 Este diagrama representa el caso de uso de registrar a un nuevo usuario:
 
-file:///home/murena/Escritorio/Cursos/CQRS/cqrs-ejemplo/con_CQRS/diagramas/registrarUsuario-diagrama.jpg
+![registrarUsuario-diagrama](https://github.com/mariaurena/cqrs-ejemplo/assets/58937944/16827462-6005-4df3-9840-e09f9dfabbc7)
+
