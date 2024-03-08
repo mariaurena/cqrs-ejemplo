@@ -10,7 +10,7 @@ Este diagrama representa el caso de uso de registrar a un nuevo usuario:
 
 Este otro explica el caso de uso de buscar a un usuario por su email:
 
-![buscarUsuario-diagrama](https://github.com/mariaurena/cqrs-ejemplo/assets/58937944/434a72b5-3e29-4660-a284-1b7e249fdcf7)
+![buscarUsuario-diagrama](https://github.com/mariaurena/cqrs-ejemplo/assets/58937944/10ac9df8-70c6-4c0e-baed-302f0be7212d)
 
 
 
