@@ -8,3 +8,10 @@ Este diagrama representa el caso de uso de registrar a un nuevo usuario:
 
 ![registrarUsuario-diagrama](https://github.com/mariaurena/cqrs-ejemplo/assets/58937944/16827462-6005-4df3-9840-e09f9dfabbc7)
 
+Este otro explica el caso de uso de buscar a un usuario por su email:
+
+![buscarUsuario-diagrama](https://github.com/mariaurena/cqrs-ejemplo/assets/58937944/434a72b5-3e29-4660-a284-1b7e249fdcf7)
+
+
+
+
